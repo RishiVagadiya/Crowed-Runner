@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2471315cfd8af3d48a2a80173cc474a1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Big Shoulders Stencil 24pt
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0208f76379fa0744b9bf1106640ffe2e, type: 3}
+  - {fileID: 12800000, guid: 102c6ba21fa44fe48b108a62a6cbb0d5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
